@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
                 // Open the second activity and pass the video data
                 Intent intent = new Intent(MainActivity.this, SecondActivity.class);
-                intent.putExtra("videoId", "dQw4w9WgXcQ");
+                intent.putExtra("videoId", "gHcbdZ98J7I");
                 startActivity(intent);
             }
         });
