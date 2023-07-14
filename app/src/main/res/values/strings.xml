@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealReaction</string>
+    <string name="error_player">An error occurred while initializing the YouTube player: %s</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="error">Error</string></resources>
